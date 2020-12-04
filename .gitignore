@@ -33,8 +33,7 @@ build/
 .vscode/
 
 ### personal for idea ###
-.mvn/*
-.gitignore
-/mvnw/
-mvnw.cmd
-
+#.mvn/*
+#.gitignore
+#/mvnw/
+#mvnw.cmd
