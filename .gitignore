@@ -35,6 +35,6 @@ build/
 ### personal for idea ###
 .mvn/*
 .gitignore
-mvnw
+/mvnw/
 mvnw.cmd
 
